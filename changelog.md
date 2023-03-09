@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Historic Archive (LTC)                                        |
+| modName    | Historic Archive (LHA)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | LazarusLuan and zer0Kerbal                                        |
@@ -132,7 +132,7 @@
 ### Status 0.9.99.0
 
 * Issues
-  * closes #4 - Historic Archive (LTC) 0.9.99.0-adoption `<Thank you LazarusLuan>` edition
+  * closes #4 - Historic Archive (LHA) 0.9.99.0-adoption `<Thank you LazarusLuan>` edition
   * closes #5 - 1.1.99.0 Create Legal Mumbo Jumbo
   * closes #6 - 1.1.99.0 Create Documentation
   * closes #7 - 1.1.99.0 Create Social Media Presence
