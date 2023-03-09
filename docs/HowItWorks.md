@@ -5,11 +5,11 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- HowItWorks.md v1.1.0.0
-Historic Archive (LTC)
+Historic Archive (LHA)
 created: 01 Oct 2019
 updated: 02 Mar 2022 -->
 
-# Historic Archive (LTC)
+# Historic Archive (LHA)
 
 [Home](./index.html)
 
@@ -37,7 +37,7 @@ U: Exterior lights on Historic Archive Capsule
 0: Main solar arrays toggle
 DEL: Launch abort activates
 
-[top](#colonial-transporter-ltc)
+[top](#colonial-transporter-LHA)
 
 #### NOTES
 
@@ -61,7 +61,7 @@ When using autopilot mods with this craft, reduce maximum thrust to 66% with a 4
 12. Apply short, light thrust to separate stages
 13. Extend main solar arrays
 
-[top](#colonial-transporter-ltc)
+[top](#colonial-transporter-LHA)
 
 ### First Stage Return
 
@@ -73,7 +73,7 @@ When using autopilot mods with this craft, reduce maximum thrust to 66% with a 4
 6. Apply throttle as needed to slow vertical speed to around 5m/s by the time it reaches the ocean
 7. Cut engine and first stage should float vertically with no loss of components. Recover vehicle
 
-[top](#colonial-transporter-ltc)
+[top](#colonial-transporter-LHA)
 
 ### To Duna
 
@@ -87,7 +87,7 @@ When using autopilot mods with this craft, reduce maximum thrust to 66% with a 4
 8. After aerocapture, use a couple of burns to stablish equitorial orbit at around 60K
 9. Extend main solar arrays
 
-[top](#colonial-transporter-ltc)
+[top](#colonial-transporter-LHA)
 
 ### Atmospheric Landing Checklist
 
@@ -104,6 +104,6 @@ When using autopilot mods with this craft, reduce maximum thrust to 66% with a 4
 11. Apply throttle as needed to slow descent to 5m/s just before touching down
 12. Extend ladders and let kerbalnauts watch Lab land nearby
 
-[top](#colonial-transporter-ltc)
+[top](#colonial-transporter-LHA)
 
 <!-- this file CC BY-NC-ND 4.0 by zer0Kerbal -->
