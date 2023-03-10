@@ -1,4 +1,4 @@
-<!-- readme.md v1.0.1.0
+<!-- readme.md v1.0.0.0
 Historic Archive (LHA)
 created: 13 Dec 2022
 updated: 16 Mar 2023
@@ -26,23 +26,23 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 
 ### Preamble by [LazarusLuan][LazarusLuan]
 
-> LazTek Temporal Anomalies is pleased to announce the availability of our SpaceX Launch Pack, SpaceX Exploration Expansion kit, SpaceX Historic Archive and SpaceX Historical Archive for Kerbal Space Program.
+> The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Launch Pack, and SpaceX Exploration Expansion Kit. The included .craft files require the installation of the Launch Pack and Exploration Expansion to load correctly. Remove any prior installations of this package before installing to prevent incompatibilities with older parts. To install, extract the GameData and Ships folders into your KSP program folder. When asked to merge, choose yes.
+>
 > Available for download in low, medium and high resolution versions, these mods include replicas of the new SpaceX Dragon V2 capsule and trunk, SpaceX Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Historic Archive, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the SpaceX Historic Archive for access to the original DragonRider concept spacecraft.
-
-The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Launch Pack, and SpaceX Exploration Expansion Kit. The included .craft files require the installation of the Launch Pack and Exploration Expansion to load correctly. Remove any prior installations of this package before installing to prevent incompatibilities with older parts. To install, extract the GameData and Ships folders into your KSP program folder. When asked to merge, choose yes.
 
 ### Included
 
 * Parts
-  * DragonRider Capsule
-  * Dragon Retractable Ladder
-  * Dragon Docking Trunk
+  * Dragon
+    * DragonRider Capsule
+    * Retractable Ladder
+    * Docking Trunk
+    * Mini Solar Panels (Designed to be surface-attached on lower port and starboard sections of DragonRider capsule in a set of two)
+    * Dragon Retractable Nose (Maintains areodynamics of DragonRider capsule for return orbits from surfaces with heavy atmospheres, while providing intake ducts for SuperDraco/PulseJet hybrid engines.)
+    * SuperDraco Twin Engine Nacelle (Designed to be attached to DragonRider capsule in a set of 4)
+    * SuperDraco PulseJet Hybrid Engine Nacelle (Experimental engines utilizing automatically-switching air-breathing and closed-system modes to allow use of planetary atmospheres to greatly extend use of fuel for returns from planet surfaces.)
   * Falcon Heat Shield
   * Explorer Heat Shield
-  * Dragon Mini Solar Panels (Designed to be surface-attached on lower port and starboard sections of DragonRider capsule in a set of two)
-  * SuperDraco Twin Engine Nacelle (Designed to be attached to DragonRider capsule in a set of 4)
-  * Dragon Retractable Nose (Maintains areodynamics of DragonRider capsule for return orbits from surfaces with heavy atmospheres, while providing intake ducts for SuperDraco/PulseJet hybrid engines.)
-  * SuperDraco PulseJet Hybrid Engine Nacelle (Experimental engines utilizing automatically-switching air-breathing and closed-system modes to allow use of planetary atmospheres to greatly extend use of fuel for returns from planet surfaces.)
 
 * Ships (.craft)
   * LT SpaceX DragonRider with SHERPA remote satellite launching system - (Use these keys: G-landing legs U-interior and exterior lights, 1-switch to single center engine for landing first stage 2-switch to three engine configuration for returning 3-switch to five engine configuration for atmospheric braking and parking orbit burns, 5-toggle ladder 6-toggle hatch , 0-toggle solar panels)
@@ -53,7 +53,7 @@ The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Laun
 
 ### See more
 
->* [Falcon 9 wiki](https://en.wikipedia.org/wiki/Falcon_9)
+>* [Dragon 2 wiki](https://en.wikipedia.org/wiki/SpaceX_Dragon_2)
 >* [GitHub Pages][pages]
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
@@ -104,10 +104,10 @@ The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Laun
 ### Recommends
 
 * [LazTek Dev (LTD)][LTD]
-  * [LaunchPack (LLP)][LLP]
-  * [Historic Archive (LHA)][LHA]
+  * [Colonial Transport (LCT)][LCT]
   * [Exploration Expansion (LTE)][LTE]
   * [Historic Archive (LHA)][LHA]
+  * [LaunchPack (LLP)][LLP]
 
 ### Suggests
 
@@ -192,7 +192,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/HistoricArchive/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/HistoricArchive/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "HistoricArchive Forum"
+[forum]: https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive "Historic Archive"
 [issue]: https://github.com/zer0Kerbal/HistoricArchive/issues "Issues"
 [markt]: https://zer0kerbal.github.io/HistoricArchive/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/HistoricArchive/Notices "Notices"
@@ -239,7 +239,7 @@ Comment, click, like, share, up-vote, subscribe
 [LHA]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LHA)"
 [LTD]: https://github.com/zer0Kerbal/LazTekDev "LazTek Dev (LTD)"
 [LTE]: https://github.com/zer0Kerbal/ExplorationExpansion "ExplorationExpansion (LTE)"
-[LHA]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LHA)"
+[LCT]: https://github.com/zer0Kerbal/ColonialTransporter "Colonial Transporter (LCT)"
 [LLP]: https://github.com/zer0Kerbal/LaunchPack "LaunchPack (LLP)"
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
