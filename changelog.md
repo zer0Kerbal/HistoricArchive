@@ -19,8 +19,7 @@
 ### Status 0.9.0.0
 
 * Issues
-  * closes #10 - Archival Releases
-  * closes #15 - 0.9.0.0-release
-  * closes #37 - [BUG] archival release config issues
+  * closes #7 - Archival Releases
+  * closes #32 - 0.9.0.0-release
 
 ---
