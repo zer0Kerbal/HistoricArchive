@@ -1,0 +1,43 @@
+LazTek SpaceX Historic Archive HD .90
+
+LazTek Temporal Anomalies appreciates your participation in testing our products for Kerbal Space Program.
+
+************
+This version of the SpaceX Historic Archive requires at least 8-16 GB RAM and a high-end graphics card to load and run in the manner intended. A lower-resolution version is also available. ONLY ONE VERSION OF THIS PACKAGE IS DESIGNED TO BE INSTALLED AT A TIME. INSTALLING THE OTHER VERSION WILL OVERWRITE THE CURRENT ONE.
+
+The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Launch Pack, and SpaceX Exploration Expansion Kit. The included .craft files require the installation of the Launch Pack and Exploration Expansion to load correctly. Remove any prior installations of this package before installing to prevent incompatibilities with older parts. To install, extract the GameData and Ships folders into your KSP program folder. When asked to merge, choose yes.
+
+For assistance or to give your feedback, visit http://forum.kerbalspaceprogram.com/threads/29388-LazTek-SpaceX-Launch-Pack-Exploration-Expansion-and-Historic-Archive-mods-0-90-%281-6-15%29
+
+************
+Included with this package:
+
+PARTS -
+
+DragonRider Capsule
+Dragon Retractable Ladder
+Dragon Docking Trunk
+Falcon Heat Shield
+Explorer Heat Shield
+Dragon Mini Solar Panels (Designed to be surface-attached on lower port and starboard sections of DragonRider capsule in a set of two)
+SuperDraco Twin Engine Nacelle (Designed to be attached to DragonRider capsule in a set of 4)
+Dragon Retractable Nose (Maintains areodynamics of DragonRider capsule for return orbits from surfaces with heavy atmospheres, while providing intake ducts for SuperDraco/PulseJet hybrid engines.)
+SuperDraco PulseJet Hybrid Engine Nacelle (Experimental engines utilizing automatically-switching air-breathing and closed-system modes to allow use of planetary atmospheres to greatly extend use of fuel for returns from planet surfaces.)
+
+SHIPS -
+
+LT SpaceX DragonRider with SHERPA remote satellite launching system - (Use these keys: G-landing legs U-interior and exterior lights, 1-switch to single center engine for landing first stage 2-switch to three engine configuration for returning 3-switch to five engine configuration for atmospheric braking and parking orbit burns, 5-toggle ladder 6-toggle hatch , 0-toggle solar panels)
+
+LT SpaceX Dragon Explorer V1 - Designed and tested to explore and return from every planetary body in the Kerbol system, this ship can be converted to non-atmospheric mode to save weight if desired and is set up to use new experimental SuperDraco/PulseJet hybrid technology, combining air-breathing and conventional closed-system rocket tech. (Use these keys: 5-ladder 6-hatch 8-retractable nose cone 9-retractable solar panel covers 0-solar panels. Use 4 key to disengage booster engines before separation, use 1, 2 and 3 keys to switch between 1-, 3- and 5-engine configurations for stage returns.)
+
+LT SpaceX DragonClaw V1 - Created for asteroid redirect missions, local system small body exploration and colonization, spacecraft and satellite towing and deorbiting. Designed to carry lots of monopropellant for the SuperDraco engines, uses reverse-mounted claw for towing objects instead of pushing them.(Use these keys: 5-ladder 6-hatch 8-Arm/Release claw 0-solar panels. Use 4 key to disengage booster engines before separation, use 1, 2 and 3 keys to switch between 1-, 3- and 5-engine configurations for stage returns.)
+
+NOTES -
+DragonRider capsule is preloaded with 1200 of 2000 possible units of monopropellant fuel, keeping the weight of the capsule low enough to escape safely when the SuperDraco engines are used as its launch escape system during an emergency. Monopropellant tanks have been added to the trunks, which may be used to top off the Dragon 2 fuel tank when after reaching parking orbit. 
+SuperDraco/PulseJet engine nacelles are designed to attach to the Dragon 2 capsule in a set of four and have been set up for you with pre-made ships. The best and most stable method of correctly installing the engines is to rotate the capsule around its vertical axis 45 degrees, attaching the engines in a set of four and then rotating the capsule back to its original position. There is a strange bug in KSP that requires this method to eliminate roll when firing the engines.
+
+
+************
+License:
+Created by Lazarus Luan (Lazarus). Neither this mod, nor any part of it may be redistributed.
+
