@@ -6,17 +6,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-HistoricArchive (ABBV)
+Historic Archive (LHA)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# HistoricArchive (ABBV)
+# Historic Archive (LHA)
 
 [Home](./index.md)
 
-***BLURB***
+A 9-piece, add-on parts pack for the SpaceX Launch Pack that includes the original DragonRider concept capsule and associated parts.
 
 ## Installation Instructions
 
