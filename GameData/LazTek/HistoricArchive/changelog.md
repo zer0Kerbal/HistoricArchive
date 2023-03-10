@@ -1,11 +1,11 @@
 # Changelog  
   
-| modName    | Historic Archive (LHA)                                        |
-| ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
-| author     | LazarusLuan and zer0Kerbal                                        |
-| github     | (https://github.com/zer0Kerbal/HistoricArchive)               |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive)  |
+| modName    | Historic Archive (LHA)                                       |
+| ---------- | ------------------------------------------------------------ |
+| license    | CC-BY-ND-4.0                                                 |
+| author     | LazarusLuan and zer0Kerbal                                   |
+| github     | (https://github.com/zer0Kerbal/HistoricArchive)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive) |
 
 ## Version 0.9.0.0-release - `<Archival>` edition
 
