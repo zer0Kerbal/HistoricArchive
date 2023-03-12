@@ -17,12 +17,11 @@
 ### Summary 0.9.99.0
 
 * Not everything is updated, but the important things should be
-* Lab doesn't have an IVA (other than the science lab's but with six seats)
-* Pod's IVA only has 4 seats (but still seats 50 (this probably will be reduced))
+* Pod's IVA is included, but basic-er
 * Stock Balance pass needed
 * loads of behind the scenes changes
 * Uses the HD textures, MUCH smaller release package
-* Can search `LHA`, `laztek` in editors
+* Can search `lha`, `laztek` in editors
 * ghostparts.cfg temporarily added for renamed parts
 * size reduction
   * archive size reduced from 47.3mb --> 28.3mb
