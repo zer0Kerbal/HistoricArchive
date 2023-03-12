@@ -18,99 +18,38 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds twenty-two (22) parts
+This add-on adds nine (9) historic parts
 
----
+* Engines
+  * draco and pulsejet
 
-* chute
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-jet-pulse_icon.png" alt="Pulse Jet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-eng-draco_icon.png" alt="Draco" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-chute_icon.png" alt="chute" width="25%" height="25%" />
+* heatshield
+  * falcon and heatshield-habitat
 
-* dock
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-dock_icon.png" alt="dock" width="25%" height="25%" />
-
-* dock-interstage
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-dock-interstage_icon.png" alt="dock-interstage" width="25%" height="25%" />
-
-* eng-draco
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-eng-draco_icon.png" alt="eng-draco" width="25%" height="25%" />
-
-* eng-draco-rcs
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-eng-draco-rcs_icon.png" alt="eng-draco-rcs" width="25%" height="25%" />
-
-* eng-plate-raptor
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-eng-plate-raptor_icon.png" alt="eng-plate-raptor" width="25%" height="25%" />
-
-* eng-raptor-a1
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-eng-raptor-a1_icon.png" alt="eng-raptor-a1" width="25%" height="25%" />
-
-* eng-raptor-a1-vac
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-eng-raptor-a1-vac_icon.png" alt="eng-raptor-a1-vac" width="25%" height="25%" />
-
-* fin-grid-large
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-fin-grid-large_icon.png" alt="fin-grid-large" width="25%" height="25%" />
-
-* heatshield-mct
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-heatshield-mct_icon.png" alt="heatshield-mct" width="25%" height="25%" />
-
-* lab
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-lab_icon.png" alt="lab" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-heatshield-falcon_icon.png" alt="Heatshield" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-heatshield-habitat_icon.png" alt="Heatshield" width="25%" height="25%" />
 
 * ladder-retractable
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-ladder-retractable_icon.png" alt="ladder-retractable" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-ladder-retractable_icon.png" alt="Retractable Ladder" width="25%" height="25%" />
 
-* leg
+* solar-mini
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-leg_icon.png" alt="leg" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-solar-mini_icon.png" alt="Mini Solar" width="25%" height="25%" />
 
-* leg-straight
+* nosecone-retractable
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-leg-straight_icon.png" alt="leg-straight" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-nosecone-retractable_icon.png" alt="Retractable Nosecone" width="25%" height="25%" />
 
-* nosecone
+* pod-dragon2
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-nosecone_icon.png" alt="nosecone" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-pod-dragon2_icon.png" alt="Dragon 2 Pod" width="25%" height="25%" />
 
-* pod
+* trunk
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-pod_icon.png" alt="pod" width="25%" height="25%" />
-
-* probe-falcon
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-probe-falcon_icon.png" alt="probe-falcon" width="25%" height="25%" />
-
-* ramp-retractable
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-ramp-retractable_icon.png" alt="ramp-retractable" width="25%" height="25%" />
-
-* solar-mct
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-solar-mct_icon.png" alt="solar-mct" width="25%" height="25%" />
-
-* stage-falcon-interstage
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-stage-falcon-interstage_icon.png" alt="stage-falcon-interstage" width="25%" height="25%" />
-
-* tank-falcon-main
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-tank-falcon-main_icon.png" alt="tank-falcon-main" width="25%" height="25%" />
-
-* tank-falcon-upper
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/LHA-tank-falcon-upper_icon.png" alt="tank-falcon-upper" width="25%" height="25%" />
-
----
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/docs/thumbs/lha-trunk_icon.png" alt="Trunk" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
