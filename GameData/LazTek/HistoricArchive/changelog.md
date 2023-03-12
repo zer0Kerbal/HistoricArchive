@@ -10,24 +10,27 @@
 ## Version 0.9.99.0-adoption - `<Thank you LazarusLuan>` edition
 
 * Released
-  * 09 Mar 2023
+  * 11 Mar 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Summary 0.9.99.0
 
 * Not everything is updated, but the important things should be
-* Lab doesn't have an IVA (other than the science lab's but with six seats)
-* Pod's IVA only has 4 seats (but still seats 50 (this probably will be reduced))
+* Pod's IVA is included, but basic-er
 * Stock Balance pass needed
 * loads of behind the scenes changes
-* Uses the HD textures, MUCH smaller release package
-* Can search `LHA`, `laztek` in editors
+* Standard assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) are available (LD and MD)
+* Can search `lha`, `laztek` in editors
 * ghostparts.cfg temporarily added for renamed parts
+* experimental RealismOverhaul.cfg patch included (not tested)
+* Dependencies:
+  * LazTek Dev
+  * Laztek's Launch Pack
+  * Laztek's Exploration Expansion
 * size reduction
-  * archive size reduced from 47.3mb --> 28.3mb
-  * disk size reduced from 855mb --> 302mb
-* HD assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) available (LD and MD)
+  * archive size reduced from 5.6mb --> 3.1mb
+  * disk size reduced from 55mb --> 19mb
 
 ### Archival Releases
 
