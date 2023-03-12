@@ -16,7 +16,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Historic Archive (LHA)
 
-A 9-piece, add-on parts pack for the SpaceX Launch Pack that includes the original DragonRider concept capsule and associated parts.
+9-piece, add-on parts pack for the SpaceX Launch Pack that includes the original DragonRider concept capsule and associated parts.
 
 NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures are available to download and use instead.
 
@@ -75,11 +75,9 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 >   * RPM/MAS, life support, other
 > * IVA's
 >   * Update the pod's IVA
->   * New IVA for the lab
 > * Sample Crafts
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Model updates (add/improve lights, iva, hatches and so forth)
 > * Update the landing legs to use stock leg modules instead of ModuleAnimateGeneric
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -100,14 +98,12 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 ### Dependencies
 
 * [LazTek Dev (LTD)][LTD]
+  * [Exploration Expansion (LTE)][LTE]
+  * [LaunchPack (LLP)][LLP]
 
 ### Recommends
 
-* [LazTek Dev (LTD)][LTD]
-  * [Colonial Transport (LCT)][LCT]
-  * [Exploration Expansion (LTE)][LTE]
-  * [Historic Archive (LHA)][LHA]
-  * [LaunchPack (LLP)][LLP]
+* [LazTek Dev (LTD)][LTD]'s [Colonial Transport (LCT)][LCT]
 
 ### Suggests
 
