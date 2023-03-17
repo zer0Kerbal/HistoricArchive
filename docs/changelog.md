@@ -19,6 +19,33 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | github     | (https://github.com/zer0Kerbal/HistoricArchive)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive) |
 
+## Version 0.9.99.1-prerelease - `<Thank you LazarusLuan>` edition
+
+* Released
+  * 17 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.9.99.1
+
+* Alternative resolution textures are now available
+  * download [here](https://www.curseforge.com/kerbal/ksp-mods/HistoricArchiveTextures)
+  * should be drag'n'drop
+* Added
+  * drag cubes
+  * ModuleCargoPart
+  * tags to draco (included in LazTek Dev (LTD))
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #37 - Historic Archive (LHA) 0.9.99.1-prerelease `<Thank you LazarusLuan>` edition
+  * closes #38 - 0.9.99.1 Additional Tasks
+  * closes #40 - Alternate Resolution Textures
+  * updates #12 - Localization - Master
+
+---
+
 ## Version 0.9.99.0-adoption - `<Thank you LazarusLuan>` edition
 
 * Released
