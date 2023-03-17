@@ -1,24 +1,24 @@
-<!-- readme.md v1.0.0.0
+<!-- readme.md v1.0.1.0
 Historic Archive (LHA)
 created: 13 Dec 2022
-updated: 16 Mar 2023
+updated: 17 Mar 2023
 
-TEMPLATE: readme.md v1.7.0.3
+TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
-updated: 17 Feb 2023
+updated: 15 Mar 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Historic Archive (LHA)][MOD:shd]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Historic Archive (LHA)][SHD:mod]][CURSFG:url] [![KSP version][SHD:ksp]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] 
-[![Pages][PAGES:shd]][pages]
+[![Pages][SHD:pages]][pages]
 
 
 # Historic Archive (LHA)
 
 9-piece, add-on parts pack for the SpaceX Launch Pack that includes the original DragonRider concept capsule and associated parts.
 
-NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures are available to download and use instead.
+NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][ld] textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
@@ -28,7 +28,7 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 
 > The SpaceX  Historic Archive is designed as an add-on for the LazTek SpaceX Launch Pack, and SpaceX Exploration Expansion Kit. The included .craft files require the installation of the Launch Pack and Exploration Expansion to load correctly. Remove any prior installations of this package before installing to prevent incompatibilities with older parts. To install, extract the GameData and Ships folders into your KSP program folder. When asked to merge, choose yes.
 >
-> Available for download in low, medium and high resolution versions, these mods include replicas of the new SpaceX Dragon V2 capsule and trunk, SpaceX Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Historic Archive, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the SpaceX Historic Archive for access to the original DragonRider concept spacecraft.
+> [Low][texture], [medium][texture] and [high][texture] resolutions are available for these mods which include replicas of the new SpaceX Dragon V2 capsule and trunk, SpaceX Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Historic Archive, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the SpaceX Historic Archive for access to the original DragonRider concept spacecraft.
 
 ### Included
 
@@ -44,7 +44,7 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
   * Falcon Heat Shield
   * Explorer Heat Shield
 
-* Ships (.craft)
+* Ships (.craft) (might be out of date)
   * LT SpaceX DragonRider with SHERPA remote satellite launching system - (Use these keys: G-landing legs U-interior and exterior lights, 1-switch to single center engine for landing first stage 2-switch to three engine configuration for returning 3-switch to five engine configuration for atmospheric braking and parking orbit burns, 5-toggle ladder 6-toggle hatch , 0-toggle solar panels)
   * LT SpaceX Dragon Explorer V1 - Designed and tested to explore and return from every planetary body in the Kerbol system, this ship can be converted to non-atmospheric mode to save weight if desired and is set up to use new experimental SuperDraco/PulseJet hybrid technology, combining air-breathing and conventional closed-system rocket tech. (Use these keys: 5-ladder 6-hatch 8-retractable nose cone 9-retractable solar panel covers 0-solar panels. Use 4 key to disengage booster engines before separation, use 1, 2 and 3 keys to switch between 1-, 3- and 5-engine configurations for stage returns.)
   * LT SpaceX DragonClaw V1 - Created for asteroid redirect missions, local system small body exploration and colonization, spacecraft and satellite towing and deorbiting. Designed to carry lots of monopropellant for the SuperDraco engines, uses reverse-mounted claw for towing objects instead of pushing them.(Use these keys: 5-ladder 6-hatch 8-Arm/Release claw 0-solar panels. Use 4 key to disengage booster engines before separation, use 1, 2 and 3 keys to switch between 1-, 3- and 5-engine configurations for stage returns.)
@@ -90,15 +90,14 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 
 ### Installation Directions
 
-***Only available on***
-  CurseForge Website / OverWolf App
+Most recent releases only available via CurseForge/OverWolf Website/App
 
-  <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="100px"></a>
 
 ### Dependencies
 
 * [LazTek Dev (LTD)][LTD]
-  * [Exploration Expansion (LTE)][LTE]
+  * [Exploration Expansion (LEE)][LEE]
   * [LaunchPack (LLP)][LLP]
 
 ### Recommends
@@ -196,8 +195,8 @@ Comment, click, like, share, up-vote, subscribe
 [parts]: https://zer0kerbal.github.io/HistoricArchive/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
-[MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/json/mod.json
-[PAGES:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/json/mod.json
+[SHD:pages]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive "CurseForge"
@@ -221,7 +220,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/json/ksp.json "Kerbal Space Program"
+[SHD:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HistoricArchive/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
 [BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"
@@ -232,11 +231,13 @@ Comment, click, like, share, up-vote, subscribe
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [KAMP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/ "Adjustable Mod Panel (KAMP)"
 [KDVA]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
-[LHA]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LHA)"
-[LTD]: https://github.com/zer0Kerbal/LazTekDev "LazTek Dev (LTD)"
-[LTE]: https://github.com/zer0Kerbal/ExplorationExpansion "ExplorationExpansion (LTE)"
-[LCT]: https://github.com/zer0Kerbal/ColonialTransporter "Colonial Transporter (LCT)"
-[LLP]: https://github.com/zer0Kerbal/LaunchPack "LaunchPack (LLP)"
+
+[LTD]: https://www.curseforge.com/kerbal/ksp-mods/LazTekDev "LazTek Dev (LTD)"
+[LCT]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "Colonial Transporter (LCT)"
+[LEE]: https://www.curseforge.com/kerbal/ksp-mods/ExplorationExpansion "ExplorationExpansion (LEE)"
+[LHA]: https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive "HistoricArchive (LHA)"
+[LLP]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPack "LaunchPack (LLP)"
+
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon! (NSSC)"
@@ -248,6 +249,8 @@ Comment, click, like, share, up-vote, subscribe
 [SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
+
+[texture]: https://www.curseforge.com/kerbal/ksp-mods/LaunchPackTextures "alternative resolution textures"
 
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
@@ -261,8 +264,6 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
-[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
-[BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
@@ -274,6 +275,8 @@ Comment, click, like, share, up-vote, subscribe
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
+[steam]: https://steamcommunity.com/id/zeroKerbal
+[projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
 [LazarusLuan]: https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/ "LazarusLuan"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
@@ -282,4 +285,4 @@ Comment, click, like, share, up-vote, subscribe
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/HistoricArchive/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br> 
