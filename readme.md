@@ -18,7 +18,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 9-piece, add-on parts pack for the SpaceX Launch Pack that includes the original DragonRider concept capsule and associated parts.
 
-NOTE: only the normal resoultion textures are included, the [`HD`][hd] / [`LD`][ld] textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
+NOTE: only the normal resoultion textures are included, the [`HD`][texture] / [`LD`][texture] textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
