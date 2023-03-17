@@ -19,7 +19,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | github     | (https://github.com/zer0Kerbal/HistoricArchive)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive) |
 
-## Version 0.9.99.0-prerelease - `<Thank you LazarusLuan>` edition
+## Version 0.9.99.1-prerelease - `<Thank you LazarusLuan>` edition
 
 * Released
   * 17 Mar 2023
