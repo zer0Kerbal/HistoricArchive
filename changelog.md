@@ -14,12 +14,13 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Summary 0.9.99.1
+### Summary 0.9.99.2
 
 * Alternative resolution textures are now available
   * download [here](https://www.curseforge.com/kerbal/ksp-mods/HistoricArchiveTextures)
-  * should be drag'n'drop
-* add features to improve ghostParts.cfg
+* add
+  * features to improve ghostParts.cfg
+  * additional tags to draco
 
 ### Config 0.9.99.2
 
@@ -27,10 +28,14 @@
   * [ghostParts.cfg] v1.0.1.0
     * now removes tags
     * removed log messages
+  * [HistoricArchive.cfg] v0.9.99.2
+    * add additional tags to draco
 
-### Status 0.9.99.1
+### Status 0.9.99.2
 
 * Issues
+  * closes #42 - Historic Archive (LHA) 0.9.99.2-prerelease `<Thank you LazarusLuan>` edition
+  * closes #43 - 0.9.99.2 Additional Tasks
 
 ---
 
