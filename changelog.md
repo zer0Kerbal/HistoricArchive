@@ -7,6 +7,33 @@
 | github     | (https://github.com/zer0Kerbal/HistoricArchive)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive) |
 
+## Version 0.9.99.2-prerelease - `<Thank you LazarusLuan>` edition
+
+* Released
+  * 25 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.9.99.1
+
+* Alternative resolution textures are now available
+  * download [here](https://www.curseforge.com/kerbal/ksp-mods/HistoricArchiveTextures)
+  * should be drag'n'drop
+* add features to improve ghostParts.cfg
+
+### Config 0.9.99.2
+
+* Update
+  * [ghostParts.cfg] v1.0.1.0
+    * now removes tags
+    * removed log messages
+
+### Status 0.9.99.1
+
+* Issues
+
+---
+
 ## Version 0.9.99.1-prerelease - `<Thank you LazarusLuan>` edition
 
 * Released
